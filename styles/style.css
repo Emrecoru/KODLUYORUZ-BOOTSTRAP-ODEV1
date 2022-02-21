@@ -1,0 +1,38 @@
+h2,a {
+    text-decoration: none;  
+}
+
+.container {
+    text-align: center;
+    padding-top: 5%;
+    
+}
+
+.page {
+    background-color: #E9ECEF;
+    
+    width: 100%;
+    height: 100%;
+    background-attachment: fixed;
+   
+    overflow: auto;
+}
+
+ul {
+    display: inline-block;
+}
+
+card {
+    background-color: white;
+    margin: 4%;
+    width: 100%;
+    height: 100%;
+    background-attachment: fixed;
+    padding: 20px;
+}
+
+body{
+    width:100%;
+    overflow-x:hidden;
+    overflow-y:hidden;
+}
